@@ -1,0 +1,5 @@
+Bu klasörü;
+C:\Users\burak\Documents\Arduino\libraries
+C:\Program Files (x86)\Arduino\libraries
+konumuna atarak çalıştırabilirsiniz ya da Arduino'da rar'ı okutarak size kütüphaneyi otomatik olarak kurar.
+Belgeler klasörünün içine atmanızı tavsiye ederim. Çünkü yarın bir gün Arduino'yu silme ihtiyacı duyarsınız; sildiğiniz zaman dosya konumundaki herşey gider (kendi kütüphanenizde). Ama belgelerde gitmez. Zaten birçok oyunun kayıt dosyaları orada.

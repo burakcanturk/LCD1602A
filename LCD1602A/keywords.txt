@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For LiquidCrystal
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LCD1602A	KEYWORD1	LCD1602A
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+baslat	KEYWORD2
+temizle	KEYWORD2
+baslangic	KEYWORD2
+yazdir	KEYWORD2
+konum	KEYWORD2
+imlec	KEYWORD2
+kirpma	KEYWORD2
+ekran	KEYWORD2
+tersYazi	KEYWORD2
+soldanSaga	KEYWORD2
+sagdanSola	KEYWORD2
+solaKaydir		KEYWORD2
+sagaKaydir	KEYWORD2
+karakterOlustur	KEYWORD2
+karakterYazdir	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
